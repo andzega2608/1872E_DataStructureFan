@@ -1,5 +1,5 @@
 /*
-* Nombre: Andrés Ignacio Zegales Taborga
+* Nombre: AndrÃ©s Ignacio Zegales Taborga
 * Fecha: 24/10/2024
 * Tema: Data Structure Fan 1872E - Codeforces
 */
@@ -12,7 +12,7 @@ using namespace std;
 /*
 * cambiar_string(string &s, int l, int r)
 *
-* Se usa para modificar el string acorde a los límites que
+* Se usa para modificar el string acorde a los lÃ­mites que
 * brinda el usuario. En caso que sea 1 cambia a 0 y viceversa
 *
 * param string &string, int l_inferior, int r_superior
